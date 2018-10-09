@@ -1,3 +1,4 @@
 # homework-
-My first GitHub repo
-These are all my pratice project for Codecademy.
+This is My first GitHub repo.
+
+These are all my pratice project from Codecademy.
